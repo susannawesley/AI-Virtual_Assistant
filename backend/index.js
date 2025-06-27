@@ -15,7 +15,7 @@ const app = express();
 // Configure CORS
 const allowedOrigins = [
   "http://localhost:5173", // For local development of your frontend
- "https://ai-virtual-assistant-frontend.onrender.com "// Your deployed frontend URL
+ "https://ai-virtual-assistant-m2w3.onrender.com"// Your deployed frontend URL
   // Add any other specific origins your frontend might be deployed on
 ];
 
